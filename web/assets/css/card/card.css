@@ -196,7 +196,7 @@
   position: absolute;
   right: 10px;
   bottom: 95px;
-  height: 80px;
+  height: 70px;
   opacity: 90%;
   z-index: 16;
 }
@@ -248,7 +248,7 @@
 
 .container-xl .card .area-link-fases .icone {
     width: auto; 
-    height: 75px;
+    height: 60px;
     aspect-ratio: 1 / 2;
     object-fit: contain;
     cursor: pointer;
